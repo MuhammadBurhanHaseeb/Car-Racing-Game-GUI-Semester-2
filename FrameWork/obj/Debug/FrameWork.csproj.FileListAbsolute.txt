@@ -1,0 +1,12 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\frameWork\2D Car Game\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\frameWork\2D Car Game\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\frameWork\2D Car Game\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\frameWork\2D Car Game\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\frameWork\2D Car Game\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\frameWork\2D Car Game\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\2D Car Game\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\2D Car Game\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\2D Car Game\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\2D Car Game\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\2D Car Game\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\2D Car Game\FrameWork\obj\Debug\FrameWork.pdb
